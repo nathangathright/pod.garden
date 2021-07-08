@@ -8,6 +8,7 @@ Podcasting Garden is a tiny, open-source wiki of cultivated resources for podcas
 * [[Podcatchers]]
 * [[Prefixes]]
 * [[Private Podcasting]]
+* [[Recommendation Newsletters]]
 * [[Remote Recording]]
 * [[Universal Links]]
 * [[Website Generators]]
