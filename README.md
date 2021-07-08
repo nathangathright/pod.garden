@@ -1,5 +1,5 @@
-# 🌱 Podcasting Garden
-Podcasting Garden is a tiny, open-source wiki of cultivated resources for podcasters maintained by [Nathan Gathright](https://nathangathright.com). You are welcome to make contributions via [GitHub](https:github.com/nathangathright/podcasting-garden).
+# Welcome to Podgarden 🌱
+This is a tiny, open-source wiki of cultivated resources for podcasters maintained by [Nathan Gathright](https://nathangathright.com). Feel free to submit [contributions](https://github.com/nathangathright/pod.garden/blob/main/CONTRIBUTING.md) for new products and collections via [GitHub](https:github.com/nathangathright/pod.garden).
 
 ## Collections
 * [[Community Engagement]]
