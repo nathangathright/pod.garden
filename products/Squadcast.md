@@ -1,0 +1,3 @@
+# Squadcast
+https://squadcast.fm/
+
