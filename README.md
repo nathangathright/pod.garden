@@ -5,6 +5,7 @@ This is a tiny, open-source wiki of cultivated resources for podcasters maintain
 * [[Community Engagement]]
 * [[Directories]]
 * [[Hosting]]
+* [[Industry Newsletters]]
 * [[Podcatchers]]
 * [[Prefixes]]
 * [[Private Podcasting]]
