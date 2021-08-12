@@ -1,4 +1,6 @@
 # Text-Based Editing
-[[Descript]]
-[[Soundtrap for Storytellers]]
-[[Type Studio]]
+* [[Descript]]
+* [[Podcastle]]
+* [[Soundtrap for Storytellers]]
+* [[Spext]]
+* [[Type Studio]]
