@@ -6,6 +6,6 @@
 * [[Plink]]
 * [[Podfollow]]
 * [[pod.link]]
-* [[Podnews Subscripe Pages]]
+* [[Podnews]]
 * [[PodShare]]
 * [[Wavve Link]]
