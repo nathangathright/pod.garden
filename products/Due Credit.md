@@ -1,2 +1,2 @@
 # Due Credit
-http://duecredit.news/
+https://duecredit.news/

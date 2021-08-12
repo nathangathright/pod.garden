@@ -1,2 +1,2 @@
 # Downcast
-https://www.downcastapp.com/
+https://downcastapp.com/

@@ -1,2 +1,2 @@
 # Spreaker
-https://www.spreaker.com/
+https://spreaker.com/

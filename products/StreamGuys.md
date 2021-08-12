@@ -1,2 +1,2 @@
 # StreamGuys
-https://www.streamguys.com/
+https://streamguys.com/

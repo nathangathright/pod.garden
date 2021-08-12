@@ -1,2 +1,2 @@
 # EarBuds Podcast Collective
-https://www.earbudspodcastcollective.org/
+https://earbudspodcastcollective.org/

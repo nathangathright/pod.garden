@@ -1,2 +1,2 @@
 # Hurt Your Brain
-https://www.hurtyourbrain.com/
+https://hurtyourbrain.com/

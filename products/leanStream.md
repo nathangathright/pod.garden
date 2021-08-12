@@ -1,2 +1,2 @@
 # leanStream
-https://www.leanstream.net/
+https://leanstream.net/

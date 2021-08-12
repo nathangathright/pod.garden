@@ -1,2 +1,2 @@
 # Libsyn
-https://www.libsyn.com/
+https://libsyn.com/

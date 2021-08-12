@@ -1,2 +1,2 @@
 # Fiction Podcast Weekly
-https://www.getrevue.co/profile/ficpod
+https://getrevue.co/profile/ficpod

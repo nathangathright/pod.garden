@@ -1,2 +1,2 @@
 # Entale
-https://www.entale.co/
+https://entale.co/

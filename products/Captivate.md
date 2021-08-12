@@ -1,2 +1,2 @@
 # Captivate
-https://www.captivate.fm/
+https://captivate.fm/

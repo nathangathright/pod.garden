@@ -1,2 +1,2 @@
 # Podcast.co
-https://www.podcast.co/
+https://podcast.co/

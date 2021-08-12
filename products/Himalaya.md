@@ -1,5 +1,5 @@
 # Himalaya
-https://www.himalaya.com/
+https://himalaya.com/
 
 ## How to submit your show
-https://www.himalaya.com/claim
+https://himalaya.com/claim

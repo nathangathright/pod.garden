@@ -1,2 +1,2 @@
 # Podwatch
-https://www.britishpodcastawards.com/podwatch-email/
+https://britishpodcastawards.com/podwatch-email/

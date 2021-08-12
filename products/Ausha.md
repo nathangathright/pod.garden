@@ -1,2 +1,2 @@
 # Ausha
-https://www.ausha.co/
+https://ausha.co/

@@ -1,5 +1,5 @@
 # Universal Links
-* [[Chartable Smartlinks]]
+* [[Chartable]]
 * [[Kitelinks]]
 * [[Linkfire]]
 * [[Odesli]]

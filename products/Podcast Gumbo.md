@@ -1,2 +1,2 @@
 # Podcast Gumbo
-https://www.podcastgumbo.com/
+https://podcastgumbo.com/

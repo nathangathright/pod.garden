@@ -1,2 +1,2 @@
 # Podomatic
-https://www.podomatic.com/
+https://podomatic.com/

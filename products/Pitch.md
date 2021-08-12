@@ -1,2 +1,2 @@
 # Pitch
-https://www.getpitch.io/
+https://getpitch.io/

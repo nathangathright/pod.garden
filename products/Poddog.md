@@ -1,5 +1,5 @@
 # Poddog
-https://www.poddog.jp/
+https://poddog.jp/
 
 ## How to submit your show
-https://www.poddog.jp/
+https://poddog.jp/

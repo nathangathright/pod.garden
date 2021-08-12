@@ -1,2 +1,2 @@
 # Podpage
-https://www.podpage.com/
+https://podpage.com/

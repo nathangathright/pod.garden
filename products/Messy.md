@@ -1,2 +1,2 @@
 # Messy
-https://www.messy.fm/
+https://messy.fm/

@@ -1,2 +1,2 @@
 # Podigee
-https://www.podigee.com/
+https://podigee.com/

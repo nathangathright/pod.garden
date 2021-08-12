@@ -1,2 +1,2 @@
 # Hipcast
-https://www.hipcast.com/
+https://hipcast.com/

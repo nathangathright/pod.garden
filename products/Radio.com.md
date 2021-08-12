@@ -1,5 +1,5 @@
 # Radio.com
-https://www.radio.com/
+https://radio.com/
 
 ## How to submit your show
-https://www.radio.com/podcast-submission
+https://radio.com/podcast-submission

@@ -1,2 +1,2 @@
 # Talkshoe
-https://www.talkshoe.com/
+https://talkshoe.com/

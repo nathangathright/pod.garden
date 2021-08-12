@@ -1,2 +1,2 @@
 # Megaphone
-https://www.megaphone.fm/
+https://megaphone.fm/

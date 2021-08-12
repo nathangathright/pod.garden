@@ -1,2 +1,2 @@
 # Triton Digital
-https://www.tritondigital.com/
+https://tritondigital.com/

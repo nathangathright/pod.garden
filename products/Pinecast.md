@@ -1,2 +1,2 @@
 # Pinecast
-https://www.pinecast.com/
+https://pinecast.com/

@@ -1,2 +1,2 @@
 # This Week in Podcasts
-http://weekinpodcasts.com/newsletter/
+https://weekinpodcasts.com/newsletter/

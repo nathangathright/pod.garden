@@ -1,2 +1,2 @@
 # Megafono
-https://www.megafono.host/
+https://megafono.host/

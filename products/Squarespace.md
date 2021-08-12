@@ -1,2 +1,2 @@
 # Squarespace
-https://www.squarespace.com/
+https://squarespace.com/

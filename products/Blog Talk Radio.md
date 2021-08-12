@@ -1,2 +1,2 @@
 # Blog Talk Radio
-https://www.blogtalkradio.com/
+https://blogtalkradio.com/

@@ -1,2 +1,2 @@
 # Sharpstream
-https://www.sharp-stream.com/
+https://sharp-stream.com/

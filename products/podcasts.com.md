@@ -1,2 +1,2 @@
 # podcasts.com
-https://www.podcasts.com/
+https://podcasts.com/

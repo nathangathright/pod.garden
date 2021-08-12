@@ -1,2 +1,2 @@
 # Descript
-https://www.descript.com/
+https://descript.com/

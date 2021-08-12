@@ -1,8 +1,8 @@
 # Blubrry
-https://www.blubrry.com/
+https://blubrry.com/
 
 ## How to submit your show
-https://www.blubrry.com/addpodcast.php
+https://blubrry.com/addpodcast.php
 
 ## Prefix Service
 https://blubrry.com/services/podcast-statistics/

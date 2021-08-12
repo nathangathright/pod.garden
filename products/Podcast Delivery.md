@@ -1,2 +1,2 @@
 # Podcast Delivery
-https://www.podcastdelivery.com/
+https://podcastdelivery.com/

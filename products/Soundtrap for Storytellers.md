@@ -1,2 +1,2 @@
 # Soundtrap for Storytellers
-https://www.soundtrap.com/storytellers
+https://soundtrap.com/storytellers

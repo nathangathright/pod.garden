@@ -1,5 +1,5 @@
 # Listen Notes
-https://www.listennotes.com/
+https://listennotes.com/
 
 ## How to submit your show
-https://www.listennotes.com/submit/
+https://listennotes.com/submit/

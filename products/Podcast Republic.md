@@ -1,2 +1,2 @@
 # Podcast Republic
-https://www.podcastrepublic.net/
+https://podcastrepublic.net/

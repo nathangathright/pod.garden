@@ -1,2 +1,2 @@
 # Whooshkaa
-https://www.whooshkaa.com/
+https://whooshkaa.com/

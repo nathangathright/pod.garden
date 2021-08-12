@@ -1,2 +1,2 @@
 # Buzzsprout
-https://www.buzzsprout.com/
+https://buzzsprout.com/
