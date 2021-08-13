@@ -6,6 +6,7 @@
 * [[EarBuds Podcast Collective]]
 * [[Fiction Podcast Weekly]]
 * [[Find That Pod]]
+* [[Great Pods]]
 * [[Hurt Your Brain]]
 * [[Just Listened]]
 * [[Pod People]]
@@ -23,4 +24,5 @@
 * [[This Week in Podcasts]]
 * [[Wil Williams Reviews]]
 * [[wilt]]
+* [[WTF To Listen To]]
 * [[YSLTF]]
