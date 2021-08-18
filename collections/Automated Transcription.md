@@ -1,7 +1,11 @@
 # Automated Transcription
 * [[Descript]]
+* [[Elastic Pod]]
+* [[Happyscribe]]
 * [[Otter]]
 * [[Podcast Transcribe]]
+* [[podse.io]]
 * [[Scribie]]
 * [[Sonix]]
 * [[SpeechText.AI]]
+* [[Thisten]]
