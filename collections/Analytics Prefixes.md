@@ -1,4 +1,4 @@
-# Prefixes
+# Analytics Prefixes
 * [[Blubrry]]
 * [[Chartable]]
 * [[Podcorn]]

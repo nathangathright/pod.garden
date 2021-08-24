@@ -10,7 +10,7 @@ This is a tiny, open-source wiki of cultivated resources for podcasters maintain
 * [[Industry Newsletters]]
 * [[Paid Promotion]]
 * [[Podcatchers]]
-* [[Prefixes]]
+* [[Analytics Prefixes]]
 * [[Private Podcasting]]
 * [[Recommendation Newsletters]]
 * [[Remote Recording]]
