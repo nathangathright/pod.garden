@@ -1,9 +1,12 @@
-# Podcast Newsletters
+# Industry Newsletters
 * [[Hot Pod]]
 * [[Inside Podcasting]]
 * [[Pacific Content]]
 * [[Podcast Business Journal]]
+* [[Podcast News Daily]]
 * [[PodMov Daily]]
 * [[Podnews]]
 * [[RAIN News]]
 * [[Sounds Profitable]]
+* [[The Audio Insurgent]]
+* [[The Bello Collective]]

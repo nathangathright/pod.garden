@@ -1,4 +1,6 @@
 # Automated Transcription
+See also: [[Text-Based Editing]]
+
 * [[Descript]]
 * [[Elastic Pod]]
 * [[Happyscribe]]
