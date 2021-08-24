@@ -8,4 +8,4 @@
 * [[pod.link]]
 * [[Podnews]]
 * [[PodShare]]
-* [[Wavve Link]]
+* [[Wavve]]
