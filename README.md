@@ -4,6 +4,7 @@ This is a tiny, open-source wiki of cultivated resources for podcasters maintain
 ## Collections
 * [[Audiograms]]
 * [[Automated Transcription]]
+* [[Clip Discovery]]
 * [[Community Engagement]]
 * [[Directories]]
 * [[Guest Matchmaking]]
