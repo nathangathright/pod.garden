@@ -1,6 +1,9 @@
 # Podcorn
 https://podcorn.com/
 
+## Advertising Marketplace
+https://podcorn.com/podcasters
+
 ## How to submit your show
 https://blubrry.com/addpodcast.php
 
