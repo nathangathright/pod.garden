@@ -1,8 +1,10 @@
 # Audiograms
+* [[Audio Bites]]
 * [[Audiogram]]
 * [[Auphonic]]
 * [[Headliner]]
 * [[Reel]]
+* [[thatpart]]
 * [[Veed.io]]
 * [[Wavve]]
 * [[WNYC Audiogram Generator]]
