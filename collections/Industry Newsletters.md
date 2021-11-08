@@ -2,6 +2,7 @@
 * [[Hot Pod]]
 * [[Inside Podcasting]]
 * [[Pacific Content]]
+* [[Podbrief]]
 * [[Podcast Business Journal]]
 * [[Podcast News Daily]]
 * [[PodMov Daily]]
