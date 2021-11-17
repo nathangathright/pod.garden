@@ -14,8 +14,8 @@
 * [[Castbox]]
 * [[Castos]]
 * [[Entale]]
-* [Firstory.me](https://firstory.me/)
 * [[Fireside]]
+* [[Firstory]]
 * [[Hipcast]]
 * [[iVoox]]
 * [[knit]]
