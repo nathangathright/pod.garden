@@ -15,6 +15,7 @@
 * [[Castos]]
 * [[Entale]]
 * [[Fireside]]
+* [[Firstory]]
 * [[Hipcast]]
 * [[iVoox]]
 * [[knit]]
