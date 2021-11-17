@@ -4,6 +4,7 @@
 * [[Pacific Content]]
 * [[Podbrief]]
 * [[Podcast Business Journal]]
+* [[Podcast Marketing Magic]]
 * [[Podcast News Daily]]
 * [[PodMov Daily]]
 * [[Podnews]]
