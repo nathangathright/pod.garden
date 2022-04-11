@@ -1,4 +1,7 @@
 # Universal Links
+Sourced from [Podnews](https://podnews.net/article/universal-links)
+
+* [[Available On]]
 * [[Chartable]]
 * [[Kitelinks]]
 * [[Linkfire]]
@@ -7,8 +10,11 @@
 * [[OnlyPod Link]]
 * [[Plink]]
 * [[pod.link]]
+* [[Pod1]]
 * [[Podfollow]]
 * [[Podnews]]
-* [[PodShare]]
 * [[ToneDen]]
 * [[Wavve]]
+
+Retired
+https://podshare.io/

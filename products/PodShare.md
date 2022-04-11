@@ -1,2 +1,0 @@
-# PodShare
-https://podshare.io/
