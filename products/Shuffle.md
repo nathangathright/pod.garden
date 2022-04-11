@@ -1,2 +1,0 @@
-# Shuffle
-https://getshuffle.app/

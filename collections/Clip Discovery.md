@@ -2,10 +2,12 @@
 * [[Airr]]
 * [[Castyr]]
 * [[Entale]]
+* [[Fathom]]
 * [[Fountain]]
 * [[Hark]]
 * [[Moonbeam]]
-* [[Shuffle]]
+* [[Snipd]]
 
 Retired
 https://listentopodz.com/
+https://getshuffle.app/
