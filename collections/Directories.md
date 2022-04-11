@@ -1,4 +1,5 @@
 # Directories
+Sourced from [Podnews](https://podnews.net/article/all-the-podcast-directories)
 * [[Acast]]
 * [[Amazon Music]]
 * [[Apple Podcasts]]
@@ -14,7 +15,7 @@
 * [[Mixcloud]]
 * [[Pandora]]
 * [[Player FM]]
-* [[PocketCasts]]
+* [[Pocket Casts]]
 * [[Podbean]]
 * [[Podcast Index]]
 * [[Podcast Addict]]

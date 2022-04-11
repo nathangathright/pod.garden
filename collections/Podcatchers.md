@@ -1,4 +1,5 @@
 # Podcatchers
+Sourced from [Buzzsprout](https://www.buzzsprout.com/global_stats)
 * [[Acast]]
 * [[Amazon Music]]
 * [[Apple Podcasts]]
@@ -8,6 +9,7 @@
 * [[Castro]]
 * [[Deezer]]
 * [[Downcast]]
+* [[Facebook]]
 * [[Google Podcasts]]
 * [[Himalaya]]
 * [[iHeartRadio]]
@@ -15,10 +17,10 @@
 * [[Overcast]]
 * [[Pandora]]
 * [[Player FM]]
-* [[PocketCasts]]
+* [[Pocket Casts]]
 * [[Podbean]]
-* [[Podcast Republic]]
 * [[Podcast Addict]]
+* [[Podcast Republic]]
 * [[RadioPublic]]
 * [[Spotify]]
 * [[Stitcher]]

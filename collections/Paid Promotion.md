@@ -1,5 +1,5 @@
 # Paid Promotion
 * [[Castro]]
 * [[Overcast]]
-* [[PocketCasts]]
+* [[Pocket Casts]]
 * [[Refer-O-Matic]]
