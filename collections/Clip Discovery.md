@@ -1,6 +1,7 @@
 # Clip Discovery
 * [[Airr]]
 * [[Castyr]]
+* [[Entale]]
 * [[Fountain]]
 * [[Hark]]
 * [[Moonbeam]]

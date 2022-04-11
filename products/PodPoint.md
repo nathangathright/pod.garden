@@ -1,2 +1,0 @@
-# PodPoint
-https://podpoint.com/

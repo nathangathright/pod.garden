@@ -2,4 +2,6 @@
 * [[Acast]]
 * [[AdvertiseCast]]
 * [[Gumball]]
+* [[knit]]
 * [[Podcorn]]
+* [[Triton Digital]]

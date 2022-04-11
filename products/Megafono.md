@@ -1,2 +1,0 @@
-# Megafono
-https://megafono.host/

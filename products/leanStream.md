@@ -1,2 +1,0 @@
-# leanStream
-https://leanstream.net/

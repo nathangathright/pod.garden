@@ -1,2 +1,0 @@
-# Podiant
-https://podiant.co/

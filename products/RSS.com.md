@@ -1,2 +1,2 @@
-# RSS Podcasting
+# RSS.com
 https://rss.com/

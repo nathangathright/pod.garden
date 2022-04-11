@@ -1,2 +1,0 @@
-# Podmio
-https://podmio.com/

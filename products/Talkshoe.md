@@ -1,2 +1,0 @@
-# Talkshoe
-https://talkshoe.com/

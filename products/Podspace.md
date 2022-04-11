@@ -1,2 +1,0 @@
-# Podspace
-https://pod.space/
