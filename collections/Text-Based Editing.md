@@ -1,4 +1,5 @@
 # Text-Based Editing
+* [[Adobe Project Shasta]]
 * [[Descript]]
 * [[Eddy]]
 * [[Podcastle]]
