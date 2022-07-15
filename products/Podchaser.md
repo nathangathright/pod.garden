@@ -1,5 +1,8 @@
 # Podchaser
-https://podchaser.com/e
+https://podchaser.com/
+
+## API
+https://features.podchaser.com/api/
 
 ## How to submit your show
 https://podchaser.com/episodes
