@@ -5,6 +5,7 @@ Sourced from [Podnews](https://podnews.net/article/universal-links)
 * [[Chartable]]
 * [[Kitelinks]]
 * [[Linkfire]]
+* [[Linktree]]
 * [[Metronome]]
 * [[Odesli]]
 * [[OnlyPod Link]]
