@@ -1,8 +1,6 @@
 # Chartable
-https://chartable.com
+Podcast analytics and attribution for publishers & advertisers. Plus podcast charts from Apple Podcasts and Spotify around the world, and an amazing Podcast API, and tools for publishers to grow their shows.
 
-## Prefix Service
-https://chartable.com/publishers
-
-## Universal Links
-https://chartable.com/publishers/smartlinks
+* Home: https://chartable.com
+* Prefix Service: https://chartable.com/publishers
+* Universal Links: https://chartable.com/publishers/smartlinks

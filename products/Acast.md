@@ -1,5 +1,4 @@
 # Acast
-https://acast.com/
+Acast is the world’s leading independent podcast company, elevating podcast creators & podcast advertisers for the ultimate listening experience.
 
-## How to submit your show
-https://acast.com/en/app#__next:~:text=Are%20you%20a%20podcast%20creator
+https://acast.com/
