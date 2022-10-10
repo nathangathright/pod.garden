@@ -8,7 +8,7 @@
 * [[Moonbeam]]
 * [[Snipd]]
 
-Retired
+## Retired
 * [Shuffle](https://getshuffle.app/)
 * [Podz](https://listentopodz.com/)
 * [Quest](https://quest.app/)

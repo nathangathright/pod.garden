@@ -26,7 +26,7 @@
 * [[Wil Williams Reviews]]
 * [[wilt]]
 
-Retired:
+## Retired
 * [Podwatch](https://britishpodcastawards.com/podwatch-email/)
 * [The Listener](https://thelistener.co)
 * [YSLTF](https://tinyletter.com/YSLTF)

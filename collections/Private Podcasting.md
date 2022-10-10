@@ -14,5 +14,5 @@ Sourced from [Podnews](https://podnews.net/article/paid-podcasting
 * [[Supporting Cast]]
 * [[Transistor]]
 
-Retired:
+## Retired
 * [Pitch](https://getpitch.io/)
