@@ -20,12 +20,14 @@
 * [[Podcast The Newsletter]]
 * [[Podnews]]
 * [[Podster Magazine]]
-* [[Podwatch]]
 * [[Podyssey Newsletter]]
 * [[The Bello Collective]]
-* [[The Listener]]
 * [[This Week in Podcasts]]
 * [[Wil Williams Reviews]]
 * [[wilt]]
-* [[WTF To Listen To]]
-* [[YSLTF]]
+
+Retired:
+* [Podwatch](https://britishpodcastawards.com/podwatch-email/)
+* [The Listener](https://thelistener.co)
+* [YSLTF](https://tinyletter.com/YSLTF)
+* [WTF To Listen To](https://linktr.ee/wtftolistento)

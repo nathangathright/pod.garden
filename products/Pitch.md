@@ -1,2 +1,0 @@
-# Pitch
-https://getpitch.io/

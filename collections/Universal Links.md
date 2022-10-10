@@ -3,7 +3,7 @@ Sourced from [Podnews](https://podnews.net/article/universal-links)
 
 * [[Available On]]
 * [[Chartable]]
-* [[Kitelinks]]
+* [[Firstory]]
 * [[Linkfire]]
 * [[Linktree]]
 * [[Metronome]]
@@ -13,9 +13,10 @@ Sourced from [Podnews](https://podnews.net/article/universal-links)
 * [[pod.link]]
 * [[Pod1]]
 * [[Podfollow]]
+* [[Podkite]]
 * [[Podnews]]
 * [[ToneDen]]
 * [[Wavve]]
 
 Retired
-https://podshare.io/
+* [Podshare](https://podshare.io/)

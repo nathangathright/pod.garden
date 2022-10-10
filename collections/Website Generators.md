@@ -3,8 +3,8 @@
 * [[OnPodium]]
 * [[Podcastpage]]
 * [[Podpage]]
-* [[RadioPublic Podsites]]
-* [[Transistor Websites]]
+* [[RadioPublic]]
+* [[Transistor]]
 
 Retired
-* [[Podwii]]
+* [Podwii](https://podwii.com/)

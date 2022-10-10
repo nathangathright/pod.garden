@@ -9,6 +9,6 @@
 * [[Snipd]]
 
 Retired
-https://getshuffle.app/
-https://listentopodz.com/
-https://quest.app/
+* [Shuffle](https://getshuffle.app/)
+* [Podz](https://listentopodz.com/)
+* [Quest](https://quest.app/)

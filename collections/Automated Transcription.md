@@ -5,10 +5,12 @@ See also: [[Text-Based Editing]]
 * [[Elastic Pod]]
 * [[Happyscribe]]
 * [[Otter]]
-* [[Podcast Transcribe]]
 * [[podse.io]]
 * [[Scribie]]
 * [[Sonix]]
 * [[SpeechText.AI]]
 * [[Thisten]]
 * [[Type Studio]]
+
+Retired
+* [Podcast Transcribe](https://podcasttranscribe.com/)
