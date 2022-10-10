@@ -1,2 +1,2 @@
 # pod.link
-* Home: https://pod.link/
+* Universal Links: https://pod.link/
