@@ -1,4 +1,6 @@
 # Listen Notes
-https://listennotes.com/
+The most comprehensive podcast database online. Discover best podcasts. Search podcast show notes and audio transcripts by people, places, or topics.
+
+* Home: https://listennotes.com/
 * API: https://www.listennotes.com/podcast-api/
-* How to submit your show: https://listennotes.com/submit/
+* Directories: https://listennotes.com/submit/

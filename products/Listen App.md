@@ -1,3 +1,4 @@
 # Listen App
-A social network for podcast listeners
+The social-audio revolution wasn’t designed for podcasts-Listen App is.
+
 https://listenapp.co/

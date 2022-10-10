@@ -1,3 +1,5 @@
 # The Podcast App
+Listen to your favorite podcasts online.
+
 https://podcast.app/
-* How to submit your show: https://podcasters.radiopublic.com/
+* Directories: https://podcasters.radiopublic.com/

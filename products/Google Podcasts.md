@@ -1,3 +1,5 @@
 # Google Podcasts
-https://podcasts.google.com/
-* How to submit your show: https://podcastsmanager.google.com/
+With Google Podcasts, you can find and listen to the world's podcasts for free.
+
+* Home: https://podcasts.google.com/
+* Directories: https://podcastsmanager.google.com/

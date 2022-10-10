@@ -1,6 +1,7 @@
 # Podcorn
-https://podcorn.com/
-* Advertising Marketplace: 
-https://podcorn.com/podcasters
-* How to submit your show: https://blubrry.com/addpodcast.php
-* Prefix Service: https://help.podcorn.com/en/articles/4073162
+Marketplace connecting podcasters to advertisers for native podcast sponsorships.
+
+* Home: https://podcorn.com/
+* Advertising Marketplace: https://podcorn.com/podcasters
+* Directories: https://blubrry.com/addpodcast.php
+* Analytics Prefix: https://help.podcorn.com/en/articles/4073162

@@ -1,4 +1,3 @@
 # Spotify
-https://open.spotify.com/genre/podcasts-page
-* How to submit your show: https://podcasters.spotify.com/
-* Private Podcasting: https://podcasters.spotify.com/blog/paidsubs
+* https://open.spotify.com/genre/podcasts-page
+* Directories: https://podcasters.spotify.com/

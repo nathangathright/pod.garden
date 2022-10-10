@@ -1,4 +1,6 @@
 # RadioPublic
-https://radiopublic.com/
-* How to submit your show: https://podcasters.radiopublic.com/
+Your home for handpicked podcast playlists from people who love podcasts.
+
+* Home: https://radiopublic.com/
+* Directories: https://podcasters.radiopublic.com/
 * Website Generator: https://podcasters.radiopublic.com/website

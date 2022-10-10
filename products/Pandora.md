@@ -1,3 +1,5 @@
 # Pandora
-https://pandora.com/browse/podcasts
-* How to submit your show: https://ampplaybook.com/podcasts/
+Discover your favorite Podcasts from a variety of categories including Daily News, Music, Business, True Crime, Comedy, Politics and more. Listen to Podcasts on Pandora.
+
+* Home: https://pandora.com/browse/podcasts
+* Directories: https://ampplaybook.com/podcasts/

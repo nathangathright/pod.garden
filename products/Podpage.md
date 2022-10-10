@@ -1,2 +1,4 @@
 # Podpage
-https://podpage.com/
+Podpage automatically creates a beautiful, listener-friendly podcast site from your RSS feed. Customize the design to create a professional look you’ll be proud of in a few clicks. No coding or technical knowledge necessary.
+
+* Home: https://podpage.com/

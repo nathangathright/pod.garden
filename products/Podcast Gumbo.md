@@ -1,2 +1,4 @@
 # Podcast Gumbo
-https://podcastgumbo.com/
+a feast for your ears
+
+* Home: https://podcastgumbo.com/

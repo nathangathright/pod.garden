@@ -1,4 +1,6 @@
 # Overcast
+Podcast player app for iPhone, iPad, and Apple Watch.
+
 https://overcast.fm/
-* How to submit your show: https://overcast.fm/podcasterinfo
+* Directories: https://overcast.fm/podcasterinfo
 * Promote your show: https://overcast.fm/ads
