@@ -11,7 +11,8 @@
 * [[Thisten]]
 * [[Type Studio]]
 
+## See also
+* [[Text-Based Editing]]
+
 ## Retired
 * [Podcast Transcribe](https://podcasttranscribe.com/)
-
-See also: [[Text-Based Editing]]
