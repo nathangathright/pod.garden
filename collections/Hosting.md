@@ -1,5 +1,6 @@
 # Hosting
 * [[Acast]]
+* [[Alitu]]
 * [[Anchor]]
 * [[ART19]]
 * [[Audioboom]]
