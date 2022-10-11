@@ -9,7 +9,6 @@ This is a tiny, open-source wiki of cultivated resources for podcasters maintain
 * [[Charts]]
 * [[Clip Discovery]]
 * [[Community Engagement]]
-* [[Directories]]
 * [[Guest Matchmaking]]
 * [[Hosting]]
 * [[Industry Newsletters]]
