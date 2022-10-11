@@ -3,6 +3,6 @@
 * [[Descript]]
 * [[Eddy]]
 * [[Podcastle]]
-* [[Soundtrap for Storytellers]]
+* [[Soundtrap]]
 * [[Spext]]
 * [[Type Studio]]

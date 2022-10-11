@@ -3,3 +3,6 @@ Discover your favorite Podcasts from a variety of categories including Daily New
 
 * Home: https://pandora.com/browse/podcasts
 * Directories: https://ampplaybook.com/podcasts/
+
+## Owned By
+[[Sirius XM]]

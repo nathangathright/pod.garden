@@ -5,3 +5,6 @@ Use Podchaser's extensive podcast database, advanced search and list functionali
 * API: https://features.podchaser.com/api/
 * Directories: https://podchaser.com/episodes
 * Guest Matchmaking: https://features.podchaser.com/connect/
+
+## Owned By
+[[Acast]]

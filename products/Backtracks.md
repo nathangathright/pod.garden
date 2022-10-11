@@ -3,3 +3,4 @@ Backtracks is the world's most advanced podcast analytics and advertising platfo
 
 * Home: https://backtracks.fm/
 * Analytics Prefix: https://backtracks.fm/publishers/switchboard/
+* Charts: https://backtracks.fm/charts/top

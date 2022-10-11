@@ -3,3 +3,6 @@ We have created a comprehensive technology stack that includes dynamic ad insert
 
 * Home: https://www.adswizz.com/
 * Analytics Prefix: https://www.adswizz.com/audiomax/
+
+## Owned By
+[[Sirius XM]]

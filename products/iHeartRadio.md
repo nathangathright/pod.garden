@@ -3,3 +3,6 @@ Listen to the latest episodes from top podcasts. Get news, sports & lifestyle in
 
 https://iheart.com/podcast/
 * Directories: https://iheart.com/content/submit-your-podcast/
+
+## Owned By
+[[iHeart Media]]

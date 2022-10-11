@@ -3,3 +3,6 @@ Podsights is the new standard in podcast technology. We provide attribution that
 
 * Home: https://podsights.com/
 * Analytics Prefix: https://podsights.com/
+
+## Owned By
+[[Spotify]]

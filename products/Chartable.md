@@ -3,4 +3,7 @@ Podcast analytics and attribution for publishers & advertisers. Plus podcast cha
 
 * Home: https://chartable.com
 * Analytics Prefix: https://chartable.com/publishers
+* Charts: https://chartable.com/charts/chartable
 * Universal Links: https://chartable.com/publishers/smartlinks
+## Owned By
+[[Spotify]]
