@@ -3,5 +3,3 @@ Podcast Addict is Android #1 podcast app with over 10M downloads, 500K reviews a
 
 * Home: https://podcastaddict.com/
 * Directories: https://podcastaddict.com/submit
-
-
