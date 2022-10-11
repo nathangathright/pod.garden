@@ -1,6 +1,4 @@
 # Universal Links
-Sourced from [Podnews](https://podnews.net/article/universal-links)
-
 * [[Available On]]
 * [[Chartable]]
 * [[Firstory]]
@@ -20,3 +18,6 @@ Sourced from [Podnews](https://podnews.net/article/universal-links)
 
 ## Retired
 * [Podshare](https://podshare.io/)
+
+## References
+* [Podnews](https://podnews.net/article/universal-links)

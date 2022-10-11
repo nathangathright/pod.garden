@@ -1,6 +1,4 @@
 # Hosting
-Sourced from [Livewire Labs](https://livewire.io/podcast-trackers-by-episode-share/)
-
 * [[Acast]]
 * [[Anchor]]
 * [[ART19]]
@@ -32,3 +30,6 @@ Sourced from [Livewire Labs](https://livewire.io/podcast-trackers-by-episode-sha
 * [[Transistor]]
 * [[Triton Digital]]
 * [[Whooshkaa]]
+
+## References
+* [Livewire Labs](https://livewire.io/podcast-trackers-by-episode-share/)

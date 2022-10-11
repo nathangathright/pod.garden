@@ -1,6 +1,4 @@
 # Private Podcasting
-Sourced from [Podnews](https://podnews.net/article/paid-podcasting
-
 * [[Anchor]]
 * [[Apple Podcasts]]
 * [[Glow]]
@@ -16,3 +14,6 @@ Sourced from [Podnews](https://podnews.net/article/paid-podcasting
 
 ## Retired
 * [Pitch](https://getpitch.io/)
+
+## References
+* [Podnews](https://podnews.net/article/paid-podcasting
