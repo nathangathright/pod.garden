@@ -4,6 +4,7 @@
 * [[Elastic Pod]]
 * [[Happyscribe]]
 * [[Otter]]
+* [[Poddin]]
 * [[podse.io]]
 * [[Scribie]]
 * [[Sonix]]
