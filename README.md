@@ -4,8 +4,10 @@ This is a tiny, open-source wiki of cultivated resources for podcasters maintain
 ## Collections
 * [[APIs]]
 * [[Advertising Marketplaces]]
+* [[Analytics Prefixes]]
 * [[Audiograms]]
 * [[Automated Transcription]]
+* [[MP3 Chapter Markers]]
 * [[Charts]]
 * [[Clip Discovery]]
 * [[Community Engagement]]
@@ -14,7 +16,6 @@ This is a tiny, open-source wiki of cultivated resources for podcasters maintain
 * [[Industry Newsletters]]
 * [[Paid Promotion]]
 * [[Podcatchers]]
-* [[Analytics Prefixes]]
 * [[Private Podcasting]]
 * [[Recommendation Newsletters]]
 * [[Remote Recording]]
