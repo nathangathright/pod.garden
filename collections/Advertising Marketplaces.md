@@ -2,6 +2,8 @@
 * [[Acast]]
 * [[AdvertiseCast]]
 * [[Gumball]]
-* [[knit]]
 * [[Podcorn]]
 * [[Triton Digital]]
+
+## Retired
+* https://knit.audio/
