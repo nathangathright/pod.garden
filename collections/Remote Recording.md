@@ -1,5 +1,5 @@
 # Remote Recording
-* [[Adobe Project Shasta]]
+* [[Adobe Podcast]]
 * [[Alitu]]
 * [[Cast]]
 * [[Ennuicastr]]
