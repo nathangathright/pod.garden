@@ -1,4 +1,5 @@
 # Gumball
 Buy and sell podcast ads easily
 
-https://gumball.fm/podcasters
+* Advertising Marketplace: https://gumball.fm/podcasters
+* Analytics Prefix: https://blog.gumball.fm/gumshoe-new-feature-launch/

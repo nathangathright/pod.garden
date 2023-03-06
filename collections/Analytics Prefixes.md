@@ -1,19 +1,27 @@
 # Analytics Prefixes
 * [[AdBarker]]
 * [[Adswizz]]
+* [[ArtsAI]]
 * [[Backtracks]]
 * [[Blubrry]]
 * [[Chartable]]
+* [[Claritas]]
 * [[Feedpress]]
 * [[Firstory]]
+* [[Glystn]]
+* [[Gumball]]
 * [[Magellan AI]]
 * [[Médiamétrie]]
 * [[OP3]]
 * [[Podcorn]]
+* [[Podder]]
 * [[Podkite]]
 * [[Podscribe]]
 * [[Podsights]]
 * [[Podtrac]]
+* [[Veritonic]]
+* [[Zencastr]]
+* [[Zippycast]]
 
 ## References
 * [Livewire Labs](https://livewire.io/podcast-trackers-by-episode-share/)

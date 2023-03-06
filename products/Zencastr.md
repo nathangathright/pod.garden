@@ -1,4 +1,5 @@
 # Zencastr
 The easiest way to record your podcast in studio quality
 
-https://zencastr.com/
+* Home: https://zencastr.com/
+* Analytics Prefix: https://zencastr.ghost.io/greater-transparency-between-creators-brands/
