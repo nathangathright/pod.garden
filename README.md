@@ -20,5 +20,6 @@ This is a tiny, open-source wiki of cultivated resources for podcasters maintain
 * [[Recommendation Newsletters]]
 * [[Remote Recording]]
 * [[Text-Based Editing]]
+* [[Transcript Databases]]
 * [[Universal Links]]
 * [[Website Generators]]
