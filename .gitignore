@@ -1,8 +1,2 @@
 .DS_Store
-.obsidian/workspace
-.obsidian/config
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/core-plugins.json
-.obsidian/hotkeys.json
-.obsidian/graph.json
+.obsidian/*
