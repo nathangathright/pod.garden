@@ -1,5 +1,3 @@
-# Audacy
-
 ## Owns
 * [[Moonbeam]]
 * [[Podcorn]]

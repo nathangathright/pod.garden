@@ -1,4 +1,3 @@
-# Paid Promotion
 * [[Castro]]
 * [[Overcast]]
 * [[Pocket Casts]]

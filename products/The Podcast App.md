@@ -1,4 +1,3 @@
-# The Podcast App
 Listen to your favorite podcasts online.
 
 https://podcast.app/

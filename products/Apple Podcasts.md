@@ -1,4 +1,3 @@
-# Apple Podcasts
 Apple Podcasts features millions of shows, expert curation, personalized recommendations, and access to premium content with subscriptions.
 
 * Home: https://www.apple.com/apple-podcasts/

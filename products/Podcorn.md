@@ -1,4 +1,3 @@
-# Podcorn
 Marketplace connecting podcasters to advertisers for native podcast sponsorships.
 
 * Home: https://podcorn.com/

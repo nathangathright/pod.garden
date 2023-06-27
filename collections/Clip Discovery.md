@@ -1,4 +1,3 @@
-# Clip Discovery
 * [[Airr]]
 * [[Castyr]]
 * [[Entale]]

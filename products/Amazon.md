@@ -1,5 +1,3 @@
-# Amazon
-
 ## Owns
 * [[Amazon Music]]
 * [[Art19]]

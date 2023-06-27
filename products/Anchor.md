@@ -1,4 +1,3 @@
-# Anchor
 Create, distribute, host, and monetize your podcast, 100% free.
 
 * Hosting: https://anchor.fm/

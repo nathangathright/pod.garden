@@ -1,4 +1,3 @@
-# Hosting
 * [[Acast]]
 * [[Alitu]]
 * [[Anchor]]

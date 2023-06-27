@@ -1,4 +1,3 @@
-# Castro
 Castro makes it easy to manage lots of podcasts, and enjoy the best episodes of all your favourite podcasts.
 
 * Home: https://castro.fm/

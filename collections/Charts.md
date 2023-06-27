@@ -1,4 +1,3 @@
-# Charts
 * [[Apple Podcasts]]
 * [[Backtracks]]
 * [[Chartable]]

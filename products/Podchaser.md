@@ -1,4 +1,3 @@
-# Podchaser
 Use Podchaser's extensive podcast database, advanced search and list functionality to follow, share and rate your favorite podcasts and episodes.
 
 * Home: https://podchaser.com/

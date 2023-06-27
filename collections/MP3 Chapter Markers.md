@@ -1,5 +1,3 @@
-# MP3 Chapter Markers
-
 * [[Backtracks]]
 * [[Forecast]]
 * [[Podcast Chapters]]

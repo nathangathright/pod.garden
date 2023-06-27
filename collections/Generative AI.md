@@ -1,5 +1,3 @@
-# Generative AI
-
 https://capsho.com/
 https://castmagic.io/
 https://www.dubb.media/

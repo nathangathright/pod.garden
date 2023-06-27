@@ -1,4 +1,3 @@
-# Text-Based Editing
 * [[Adobe Podcast]]
 * [[Descript]]
 * [[Eddy]]

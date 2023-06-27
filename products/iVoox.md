@@ -1,4 +1,3 @@
-# iVoox
 iVoox es un kiosco para escuchar radios y podcasts, una plataforma donde poder reproducir, descargar y compartir audios de todo tipo de temáticas y géneros
 
 https://ivoox.com/

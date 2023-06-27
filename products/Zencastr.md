@@ -1,4 +1,3 @@
-# Zencastr
 The easiest way to record your podcast in studio quality
 
 * Home: https://zencastr.com/

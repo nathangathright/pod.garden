@@ -1,4 +1,3 @@
-# Community Engagement
 * [[Anchor]]
 * [[Firstory]]
 * [[Listen App]]

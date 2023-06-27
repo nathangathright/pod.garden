@@ -1,4 +1,3 @@
-# Analytics Prefixes
 * [[AdBarker]]
 * [[Adswizz]]
 * [[ArtsAI]]

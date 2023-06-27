@@ -1,5 +1,3 @@
-# Sirius XM
-
 * [[Adswizz]]
 * [[Pandora]]
 * [[Simplecast]]

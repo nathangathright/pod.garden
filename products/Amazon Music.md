@@ -1,4 +1,3 @@
-# Amazon Music
 Now stream thousands of popular and exclusive podcasts on Amazon Music. Find your favorite shows and discover new trending podcasts today.
 
 * Home: https://amazon.com/music/lp/podcasts

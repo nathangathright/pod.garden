@@ -1,4 +1,3 @@
-# Remote Recording
 * [[Adobe Podcast]]
 * [[Alitu]]
 * [[Cast]]

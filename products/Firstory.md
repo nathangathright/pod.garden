@@ -1,4 +1,3 @@
-# Firstory
 All in one podcast platform with monetization solutions
 
 * Community Engagement: https://firstory.me/voicemail/

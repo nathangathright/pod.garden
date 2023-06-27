@@ -1,4 +1,3 @@
-# Overcast
 Podcast player app for iPhone, iPad, and Apple Watch.
 
 * Home: https://overcast.fm/

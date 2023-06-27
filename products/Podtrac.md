@@ -1,4 +1,3 @@
-# Podtrac
 Podtrac provides industry standard podcast measurement data for podcast publishers and advertisers.
 
 * Home: https://analytics.podtrac.com/

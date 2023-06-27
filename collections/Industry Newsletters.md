@@ -1,4 +1,3 @@
-# Industry Newsletters
 * [[Hot Pod]]
 * [[Inside Podcasting]]
 * [[Pacific Content]]

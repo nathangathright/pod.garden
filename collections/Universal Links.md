@@ -1,4 +1,3 @@
-# Universal Links
 * [[Available On]]
 * [[Chartable]]
 * [[Firstory]]

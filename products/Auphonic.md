@@ -1,4 +1,3 @@
-# Auphonic
 The automatic audio post production webservice, using signal processing and machine learning techniques.
 
 * Home: https://auphonic.com/

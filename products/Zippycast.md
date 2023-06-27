@@ -1,3 +1,1 @@
-# Zippycast
-
 https://zippycast.io/

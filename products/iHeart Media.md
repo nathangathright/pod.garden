@@ -1,5 +1,3 @@
-# iHeart Media
-
 ## Owns
 * [[iHeartRadio]]
 * [[Omny Studio]]

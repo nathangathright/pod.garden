@@ -1,4 +1,3 @@
-# RadioPublic
 Your home for handpicked podcast playlists from people who love podcasts.
 
 * Home: https://radiopublic.com/

@@ -1,4 +1,3 @@
-# Advertising Marketplaces
 * [[Acast]]
 * [[AdvertiseCast]]
 * [[Gumball]]

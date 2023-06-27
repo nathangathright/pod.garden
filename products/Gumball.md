@@ -1,4 +1,3 @@
-# Gumball
 Buy and sell podcast ads easily
 
 * Advertising Marketplace: https://gumball.fm/podcasters

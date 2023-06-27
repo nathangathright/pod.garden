@@ -1,4 +1,3 @@
-# Private Podcasting
 * [[Anchor]]
 * [[Apple Podcasts]]
 * [[Glow]]
