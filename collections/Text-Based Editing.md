@@ -3,6 +3,7 @@
 * [[Eddy]]
 * [[Hindenburg]]
 * [[Podcastle]]
+* [[Riverside.fm]]
 * [[Soundtrap]]
 * [[Spext]]
 * [[Streamlabs Podcast Editor]]
