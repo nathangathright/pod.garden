@@ -5,5 +5,5 @@
 * [[Podcastle]]
 * [[Soundtrap]]
 * [[Spext]]
+* [[Streamlabs Podcast Editor]]
 * [[Trebble]]
-* [[Type Studio]]

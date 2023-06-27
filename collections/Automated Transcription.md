@@ -9,7 +9,7 @@
 * [[Sonix]]
 * [[SpeechText.AI]]
 * [[Thisten]]
-* [[Type Studio]]
+* [[Streamlabs Podcast Editor]]
 
 ## See also
 * [[Text-Based Editing]]
