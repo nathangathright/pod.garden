@@ -1,6 +1,7 @@
-https://capsho.com/
-https://castmagic.io/
-https://www.dubb.media/
-https://podium.page/
-https://swellai.com/
-https://podcastmarketing.ai/
+* [[Auphonic]]
+* [[Capsho]]
+* [[Castmagic]]
+* [[Dubb]]
+* [[Podium]]
+* [[Swell AI]]
+* [[Podcast Marketing AI]]
